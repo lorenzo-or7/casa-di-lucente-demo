@@ -15,6 +15,13 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Descontinuado-6e7681?style=for-the-badge&labelColor=040607" alt="Projeto descontinuado" />
+</p>
+
+> [!NOTE]
+> **Projeto descontinuado.** Este site não recebe mais atualizações, mas continua no ar como registro do trabalho desenvolvido.
+
+<p align="center">
   <a href="https://lorenzo-or7.github.io/casa-di-lucente-demo/"><b>🔗 Acessar o site</b></a>
 </p>
 
